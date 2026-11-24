@@ -1,4 +1,4 @@
 {
-  "versao": "1.8.0",
-  "novidades": "Estoque atualiza sozinho, avisa carro que chegou, confirma visita, retoma conversa e manda mais fotos."
+  "versao": "1.8.1",
+  "novidades": "Se ler 0 leads, explica o motivo (ex.: loja errada no Syonet)."
 }
