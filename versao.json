@@ -1,4 +1,4 @@
 {
-  "versao": "1.8.1",
-  "novidades": "Se ler 0 leads, explica o motivo (ex.: loja errada no Syonet)."
+  "versao": "1.9.6",
+  "novidades": "Segue a data do Syonet, prioriza atrasados, responde quem ficou sem resposta e conversa melhor."
 }
