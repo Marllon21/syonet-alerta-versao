@@ -1,4 +1,4 @@
 {
-  "versao": "1.10.0",
-  "novidades": "Confere a resposta antes de enviar, e o botão Resposta ruim ensina a IA."
+  "versao": "1.11.0",
+  "novidades": "Corrige mensagem com texto estranho da IA, prioriza lead novo e os que vencem hoje, e traz loja e endereço."
 }
